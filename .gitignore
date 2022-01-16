@@ -4,7 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+/next.config.js
+next.config.js/
 next.config.js
+./next.config.js
 
 
 # testing
