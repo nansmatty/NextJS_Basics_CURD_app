@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/next.config.js/
 
 
 # testing
@@ -12,7 +13,7 @@
 # next.js
 /.next/
 /out/
-next.config.js
+
 
 # production
 /build
